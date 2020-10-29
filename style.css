@@ -1,6 +1,6 @@
 body {
     font-family: calibri, Times New Roman;
-    background-color: dimgrey;
+    background-color: blue;
 }
 
 nav {
@@ -8,6 +8,6 @@ nav {
 }
 
 header {
-    margin: 2% 30%;
+    margin: 2% 50%;
     
 }
