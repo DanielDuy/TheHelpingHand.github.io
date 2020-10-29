@@ -7,6 +7,11 @@ nav {
 }
 
 header {
-    margin: 2% 50%;
-    
+    margin: 2% 30%;
+    line-height: 30px;
+}
+
+main {
+    margin: 2% 30%;
+    line-height: 30px;
 }
