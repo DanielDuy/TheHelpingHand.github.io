@@ -11,6 +11,12 @@ header {
     line-height: 30px;
 }
 
+#image1 {
+    object-fit: cover;
+    width: 100%;
+    height: 800px;
+}
+
 main {
     margin: 2% 30%;
     line-height: 30px;
