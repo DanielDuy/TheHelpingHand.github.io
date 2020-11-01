@@ -5,13 +5,15 @@ body, html {
     font-family: calibri, Times New Roman;
     color: white;
     background-color: black;
+    scroll-behavior: smooth;
 }
 
 .hero-banner {
     position: relative;
     height: 500px;
     overflow: hidden;
-    background: url();
+    background: url(../images/bannerClock.jpg) no-repeat center;
+    background-size: cover;
 }
 
 nav {
