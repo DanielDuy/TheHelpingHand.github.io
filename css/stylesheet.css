@@ -3,6 +3,7 @@ body, html {
     scroll-behavior: smooth;
 }
 
+<!--
 header {
     margin-bottom: 40px;
 }
@@ -31,12 +32,11 @@ nav ul li a {
     color: black;
 }
 
-h1 {
-    
+.introduction h1 {
     text-align: center;
 }
 
-p {
+.introduction p {
     text-align: center;
     font-size: 23px;
     word-spacing: 2%;
