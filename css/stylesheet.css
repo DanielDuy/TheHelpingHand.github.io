@@ -32,18 +32,18 @@ nav ul li a {
     color: black;
 }
 
-.introduction h1 {
+.introduction1 h1 {
     text-align: center;
 }
 
-.introduction p {
+.introduction1 p {
     text-align: center;
-    font-size: 23px;
+    font-size: 20px;
     word-spacing: 2%;
     line-height: 35px;
 }
 
-#introduction1 {
+.introduction1 {
     background-color: #afeeee;
 }
 
