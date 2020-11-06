@@ -45,11 +45,10 @@ nav ul li a {
 
 #introduction1 {
     background-color: #afeeee;
-    margin: 0px;
 }
 
 #img-1 {
-    margin: 60px 60px;
+    margin: 2% 5%;
     float: left;
-    height: 800px;
+    width: 40%;
 }
