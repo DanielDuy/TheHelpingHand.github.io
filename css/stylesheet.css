@@ -1,6 +1,9 @@
 body, html {
     font-family: calibri, Times New Roman;
     scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
 
 <!--
@@ -12,6 +15,13 @@ header {
     height: 100px;
     margin: auto;
     display: block;
+}
+
+.noselect {
+    -webkit-user-select: none;        
+    -moz-user-select: none; 
+    -ms-user-select: none; 
+    user-select: none; 
 }
 
 header div h3 {
@@ -34,21 +44,30 @@ nav ul li a {
 
 .introduction1 h1 {
     text-align: center;
+    font-size: 50px;
 }
 
 .introduction1 p {
     text-align: center;
-    font-size: 20px;
+    font-size: 30px;
     word-spacing: 2%;
     line-height: 35px;
 }
 
 .introduction1 {
     background-color: #afeeee;
+    padding: 100px 100px;
 }
 
 #img-1 {
-    margin: 2% 5%;
+    margin: 4% 5%;
     float: left;
     width: 40%;
+}
+
+.ourMission {
+    text-align: center;
+    font-size: 30px;
+    margin: 5%;
+
 }
