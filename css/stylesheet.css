@@ -1,28 +1,54 @@
 body, html {
-    height: 100%;
-    margin: 0;
-    padding: 0;
     font-family: calibri, Times New Roman;
     scroll-behavior: smooth;
 }
 
+header {
+    margin-bottom: 40px;
+}
+
+#logo {
+    height: 100px;
+    margin: auto;
+    display: block;
+}
+
+header div h3 {
+    text-align: center;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+nav ul li a {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 0px;
+}
+
 p {
     font-size: 23px;
+    padding: 50px 60px;
 }
 
-div h2 {
-    color: white;
+#introduction {
+    background-color: #ebecf0;
+    margin: 0px;
 }
 
-.hero-banner {
-    position: relative;
+#img-1 {
+    margin: 60px 80px;
+    float: left;
     height: 600px;
-    overflow: hidden;
-    background: url(../images/bannerClock.jpg) no-repeat center;
-    background-size: cover;
-}
-
-main {
-    margin: 2% 30%;
-    line-height: 30px;
 }
