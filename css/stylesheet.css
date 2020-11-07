@@ -80,7 +80,7 @@ nav ul li a {
     margin-top: 10%;
     margin-left: 100px;
     margin-right: 100px;
-    margin-bottom: 7%;
+    margin-bottom: 8%;
 }
 
 .aboutustext {
@@ -96,7 +96,7 @@ nav ul li a {
 
 #img-3 {
    float: left;
-   margin: 7% 0% 2% 4%;
+   margin: 8% 0% 2% 4%;
    width: 50%; 
 }
 
@@ -115,4 +115,31 @@ nav ul li a {
     padding-right: 2%;
     background-color: palegoldenrod;
     z-index: -1;
+}
+
+#img-4 {
+    float: right;
+    width: 50%;
+    margin-top: 12%;
+    margin-right: 3%;
+}
+
+.specificationstext {
+    position: absolute;
+    top: 300%;
+    background-color: chartreuse;
+    z-index: -1;
+}
+
+.specificationstext p {
+    color: red;
+    margin-left: 2%;
+    margin-right: 55%;
+    font-size: 25px;
+}
+
+.specificationstext h1 {
+    color: blue;
+    margin-left: 2%;
+    font-size: 100px;
 }
