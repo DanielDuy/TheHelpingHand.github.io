@@ -56,7 +56,7 @@ nav ul li a {
 
 .introduction {
     background-color: #afeeee;
-    padding: 10px 75px 75px 10px;
+    padding: 10px 75px 24px 5px;
 }
 
 #img-1 {
@@ -77,15 +77,15 @@ nav ul li a {
 #img-2 {
     float: right;
     width: 50%;
-    margin-top: 10%;
+    margin-top: 7%;
     margin-left: 100px;
     margin-right: 100px;
-    margin-bottom: 8%;
+    margin-bottom: 11%;
 }
 
 .aboutustext {
     position: absolute;
-    top: 120%;
+    top: 130%;
     padding-right: 60%;
     background-color: palegreen;
     padding-left: 50px;
@@ -96,7 +96,7 @@ nav ul li a {
 
 #img-3 {
    float: left;
-   margin: 8% 0% 2% 4%;
+   margin: 5% 4% 2% 3%;
    width: 50%; 
 }
 
@@ -110,7 +110,7 @@ nav ul li a {
 
 .howitwillhelptext {
     position: absolute;
-    top: 208.6%;
+    top: 230%;
     padding-left: 57%;
     padding-right: 2%;
     background-color: palegoldenrod;
@@ -120,13 +120,13 @@ nav ul li a {
 #img-4 {
     float: right;
     width: 50%;
-    margin-top: 12%;
+    margin-top: 15%;
     margin-right: 3%;
 }
 
 .specificationstext {
     position: absolute;
-    top: 295%;
+    top: 321.6%;
     background-color: lightsalmon;
     z-index: -1;
 }
@@ -144,10 +144,6 @@ nav ul li a {
 
 .footer {
     position: absolute;
-    top: 365%;
+    top: 420%;
     background-color: gray;
-    padding-left: 50%;
-    padding-right: 50%;
-    padding-top: 2%;
-    padding-bottom: 2%;
 }
