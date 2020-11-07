@@ -11,10 +11,11 @@ body, html {
 .wrapper {
     padding: 20px;
     height: auto;
+    background-color: slategrey;
+    margin-top: 13%;
 }
 
 footer {
-    background-color: slategrey;
     display: table-row;
     height: 1px;
 }
