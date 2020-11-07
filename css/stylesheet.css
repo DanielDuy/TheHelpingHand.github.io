@@ -110,7 +110,7 @@ nav ul li a {
 
 .howitwillhelptext {
     position: absolute;
-    top: 207%;
+    top: 208.6%;
     padding-left: 57%;
     padding-right: 2%;
     background-color: palegoldenrod;
@@ -126,20 +126,28 @@ nav ul li a {
 
 .specificationstext {
     position: absolute;
-    top: 300%;
-    background-color: chartreuse;
+    top: 295%;
+    background-color: lightsalmon;
     z-index: -1;
 }
 
 .specificationstext p {
-    color: red;
     margin-left: 2%;
     margin-right: 55%;
     font-size: 25px;
 }
 
 .specificationstext h1 {
-    color: blue;
     margin-left: 2%;
-    font-size: 100px;
+    font-size: 40px;
+}
+
+.footer {
+    position: absolute;
+    top: 365%;
+    background-color: gray;
+    padding-left: 50%;
+    padding-right: 50%;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
