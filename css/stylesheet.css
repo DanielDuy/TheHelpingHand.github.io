@@ -4,9 +4,21 @@ body, html {
     margin: 0;
     padding: 0;
     height: 100%;
+    width: 100%;
+    display: table;
 }
 
-<!--
+.wrapper {
+    padding: 20px;
+    height: auto;
+}
+
+footer {
+    background-color: slategrey;
+    display: table-row;
+    height: 1px;
+}
+
 header {
     margin-bottom: 40px;
 }
@@ -140,10 +152,4 @@ nav ul li a {
 .specificationstext h1 {
     margin-left: 2%;
     font-size: 40px;
-}
-
-.footer {
-    position: absolute;
-    top: 420%;
-    background-color: gray;
 }
